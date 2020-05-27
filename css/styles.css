@@ -10,6 +10,8 @@
 @import "settings.css";
 @import "w.css";
 @import "modile.css";
+@import "friend-info.css";
+@import "my-info.css";
 body{
     background-color: white;
     padding:10px 20px;

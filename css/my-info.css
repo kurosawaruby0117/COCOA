@@ -1,0 +1,69 @@
+.my_info{
+    background-image: url('https://optimal.inven.co.kr/upload/2019/10/05/bbs/i15779955729.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    background-position: center;
+    position: relative;
+}
+.status-bar__info{
+    color:white;   
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.friends__info{
+    color:white;
+}
+.friends__info_body{
+    
+    position: absolute;
+    bottom: 160px;
+    left: 170px;
+}
+.friends__info_body img{
+    
+    width:160px;
+    border-radius: 35%;
+}
+
+.friends__info_body span{
+    text-align: center;
+    color:white;
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+ 
+    font-size: 20px;
+}
+.friend_content_info {
+    
+    
+    color:white;
+}
+
+.friend__info_nav{
+    width: 465px;
+    color:white;
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    bottom: 30px;
+    
+    border-top: white 10px;
+}
+
+.nav_first{
+  
+    display: block;
+    text-align: center;
+    
+}
+
+.nav_first i{
+  
+   margin-bottom: 20px;
+    
+}
